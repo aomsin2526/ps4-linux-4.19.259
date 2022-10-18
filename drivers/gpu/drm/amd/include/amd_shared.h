@@ -27,7 +27,6 @@
 
 
 #define AMD_MAX_USEC_TIMEOUT		200000  /* 200 ms */
-
 /*
  * Chip flags
  */
